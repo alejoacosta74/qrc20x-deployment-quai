@@ -1,0 +1,19 @@
+{
+  "name": "deploy-multi-chain-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "github:dominant-strategies/quai-hardhat"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "quais": "^0.1.11"
+  }
+}
